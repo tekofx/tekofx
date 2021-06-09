@@ -8,16 +8,16 @@
 
 
 <p align="center">
-    <a target="_blank" href="https://www.deviantart.com/tekofx">
+    <a href="https://www.deviantart.com/tekofx" target="_blank">
       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=DeviantArt&color=222222&logo=DeviantArt&logoColor=05CC47&label=" alt="GitHub badge" />
     </a>
-    <a target="_blank" href="https://www.furaffinity.net/user/teko./">
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Fur+Affinity&color=36566F&logo=Fur+Affinity&logoColor=FFFFFF&label=" />
+    <a href="https://www.furaffinity.net/user/teko./">
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Fur+Affinity&color=36566F&logo=Fur+Affinity&logoColor=FFFFFF&label=" target="_blank"/>
     </a>
-    <a target="_blank" href="https://www.reddit.com/user/Teko_fox">
+    <a href="https://www.reddit.com/user/Teko_fox" target="_blank">
       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Reddit&color=FF4500&logo=Reddit&logoColor=FFFFFF&label=" />
     </a>
-    <a target="_blank" href="https://twitter.com/Teko_fx">
+    <a href="https://twitter.com/Teko_fx" target="_blank">
       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" />
     </a>
 
