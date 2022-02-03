@@ -7,9 +7,9 @@
 
 
 
-<p align="center">I'm a computer engineering student from Spain with an arctic fox as my fursona. I love coding and creating art</p>
+<p align="center">I'm a <a href="https://es.wikipedia.org/wiki/Furry_fandom">furry</a> computer engineering student from Spain with an arctic fox as my fursona. I love coding and creating art</p>
 
-<p>I upload from Linux customization to Discord bots</p>
+<p align="center">I upload from Linux customization to Discord bots</p>
 
 
 <p align="center">
