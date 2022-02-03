@@ -1,10 +1,11 @@
 
 ![image](RRSS%20-%20banner.png)
 
-<h1 align="center">Welcome to my profile!</h1>
+<h1 align="center">Hey you all I'm Teko</h1>
 
-<p align="center">I'm Teko a computer engineering student from Spain. I love coding and creating art</p>
+<p align="center">I'm a computer engineering student from Spain with an arctic fox as my fursona. I love coding and creating art</p>
 
+<p>I upload from Linux customization to Discord bots</p>
 
 
 <p align="center">
