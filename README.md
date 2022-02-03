@@ -1,7 +1,11 @@
-
-![image](RRSS%20-%20banner.png)
-
 <h1 align="center">Hey you all I'm Teko</h1>
+
+<p align="center">
+  <img src="hello.png"/>
+</p>
+
+
+
 
 <p align="center">I'm a computer engineering student from Spain with an arctic fox as my fursona. I love coding and creating art</p>
 
