@@ -1,17 +1,24 @@
-<h1 align="center">Hey you all I'm Teko</h1>
 
 <p align="center">
-  <img src="hello.png"/>
+  <img src="hello.png" width="400"/>
 </p>
 
+<h1 align="center"> <b>Teko ❄️</b></h1>
+
+<p>I'm Teko and I am a part self-taught developer from Spain. Currently studying computer engineering and working on my personal projects. Apart from coding I also enjoy creating art and watching anime, go follow my <a href="#social_networks">social networks</a> to find out!</p>
+
+<p>If you haven't noticed yet, I am <a href="https://es.wikipedia.org/wiki/Furry_fandom">furry</a>.</p>
 
 
 
-<p align="center">I'm a <a href="https://es.wikipedia.org/wiki/Furry_fandom">furry</a> computer engineering student from Spain with an arctic fox as my fursona. I love coding and creating art</p>
 
-<p align="center">I upload from Linux customization to Discord bots</p>
+<h2 id="what_i_do"> What do I do?</h2>
+<p>Mainly I work on projects for my own like Discord bots (<a href="https://github.com/tekofx/musicbot">Musicbot</a>, <a href="https://github.com/tekofx/furbot">Furbot</a>) and simple terminal programs (<a href="https://github.com/tekofx/renfepy">Renfepy</a>).</p>
 
 
+
+
+<h2 id="social_networks">My social networks
 <p align="center">
     <a href="https://www.deviantart.com/tekofx" target="_blank">
       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=DeviantArt&color=222222&logo=DeviantArt&logoColor=05CC47&label=" alt="GitHub badge" />
@@ -28,10 +35,10 @@
 
 </p>
 
-<hr>
-<h2 align="center">Github stats</h2>
 
 
+
+<h2>Github stats</h2>
 
 <a target="_blank" href="https://github.com/tekofx">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tekofx&show_icons=true&line_height=20&theme=dracula" />
