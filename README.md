@@ -24,9 +24,9 @@
 
 - <a href="https://github.com/tekofx/musicbot">Musicbot:</a> Music bot for discord
 
-- <a href="https://github.com/tekofx/renfepy">Renfepy:</a>: Terminal program to search for trains from renfe.com
+- <a href="https://github.com/tekofx/renfepy">Renfepy:</a> Terminal program to search for trains from renfe.com
 
-- <a href="https://github.com/tekofx/pomody">Pomody:</a>: Pomodoro program for the terminal
+- <a href="https://github.com/tekofx/pomody">Pomody:</a> Pomodoro program for the terminal
 
 
 
