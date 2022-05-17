@@ -71,9 +71,5 @@
 
 <h2>Github stats</h2>
 
-<a target="_blank" href="https://github.com/tekofx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tekofx&show_icons=true&line_height=20&theme=dracula" />
-</a>
-<a target="_blank" href="https://github.com/tekofx">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tekofx&layout=compact&theme=dracula" />
-</a>
+![Github Metrics](/github-metrics.svg)
+
