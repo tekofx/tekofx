@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="hello.png" width="400"/>
 </p>
@@ -12,11 +11,8 @@
 
 <p>If you haven't noticed yet, I am <a href="https://es.wikipedia.org/wiki/Furry_fandom">furry</a>.</p>
 
-
-
-
 <h2>⌨️ What do I do?</h2>
-<p>Mainly I work on projects for my own like Discord bots and simple terminal programs, but I would like to work on some other projects with people. 
+<p>Mainly I work on projects for my own like Discord bots and simple terminal programs, but I would like to work on some other projects with people.
 
 <h2>💻 Currently working on</h2>
 
@@ -24,14 +20,10 @@
 
 - <a href="https://github.com/tekofx/musicbot">Musicbot:</a> Music bot for discord
 
-- <a href="https://github.com/tekofx/renfepy">Renfepy:</a> Terminal program to search for trains from renfe.com
+- <a href="https://github.com/tekofx/web">Web:</a> My own website
 
-- <a href="https://github.com/tekofx/pomody">Pomody:</a> Pomodoro program for the terminal
-
-
-
+- <a href="https://github.com/tekofx/linkleaf">Linkleaf:</a> Alternative to LinkTree
 <h2>⚙️Languages and tools</h2>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
@@ -67,10 +59,6 @@
 
 </p>
 
-
-
-
 <h2>Github stats</h2>
 
 ![Github Metrics](/github-metrics.svg)
-
