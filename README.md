@@ -24,7 +24,7 @@
 
 <h2>⚙️Languages and tools</h2>
 
-[![My skills](https://skillicons.dev/icons?perline=6&i=js,html,css,ts,neovim,vscode,vim,idea,git,bash,cloudflare,github,md,lua,java,linux,nodejs,workers,regex)](https://skillicons.dev/)
+[![My skills](https://skillicons.dev/icons?perline=6&i=js,py,java,bash,css,bots,discord,docker,git,github,html,linux,neovim,nginx,nodejs,raspberrypi,react,vscode)](https://skillicons.dev/)
 
 
 <h2>📣 Social networks</h2>
