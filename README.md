@@ -23,7 +23,7 @@
 - <a href="https://github.com/tekofx/linkleaf">LinkLeaf:</a> An alternative to LinkTree
 
 <h2>⚙️Languages and tools</h2>
-[![My skills](https://skillicons.dev/icons?perline=6&i=js,py,java,bash,css,bots,discord,docker,git,github,html,linux,neovim,nginx,nodejs,raspberrypi,react,vscode)](https://skillicons.dev/)
+[![My skills](https://skillicons.dev/icons?perline=6&i=js,html,css,ts,neovim,vscode,vim,idea,git,bash,cloudflare,github,md,lua,java,linux,nodejs,workers,regex)](https://skillicons.dev/)
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
