@@ -1,5 +1,4 @@
-<h2 align="center">I'm a self-taught dev, Photographer 📷 and Artist</h2>
-<br>
+
 
 <p>I'm Teko and I am a part self-taught developer from Spain. Currently studying computer engineering and working on my personal projects. Apart from coding I also enjoy creating art and watching anime.</p>
 
