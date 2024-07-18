@@ -5,10 +5,6 @@
 
 <h2>💻 Currently working on</h2>
 
-- <a href="https://github.com/tekofx/furbot">Furbot:</a> Multipurpose bot for discord
-
-- <a href="https://github.com/tekofx/web">Web:</a> My own website
-
 - <a href="https://github.com/tekofx/linkleaf">LinkLeaf:</a> An alternative to LinkTree
 
 <h2>⚙️Languages and tools</h2>
