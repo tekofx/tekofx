@@ -1,4 +1,4 @@
-<p>I'm Teko, a tech lover arctic fox.</p>
+
 
 <h2>⌨️ What do I do?</h2>
 <p>Mainly I work on projects for my own like Discord bots and webs.
