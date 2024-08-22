@@ -6,6 +6,7 @@
 <h2>💻 Currently working on</h2>
 
 - <a href="https://github.com/tekofx/linkleaf">LinkLeaf:</a> An alternative to LinkTree
+- <a href="https://github.com/akrck02/kinokoro">Kinokoro:</a> A godot virtual pets game
 
 <h2>⚙️Languages and tools</h2>
 
