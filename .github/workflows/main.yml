@@ -1,13 +1,12 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
-  push: {branches: ["master", "main"]}
-  
+  schedule: [{ cron: "0 0 * * *" }]
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    environment: 
+    environment:
       name: production
     permissions:
       contents: write
